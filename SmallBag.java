@@ -1,4 +1,4 @@
-/*
+/**
  * Generic class to store data in small bag.
  * 
  * @author Zachary Cowan
@@ -9,7 +9,7 @@ public class SmallBag<T> {
 	
 	private T item;
 	
-	/*
+	/**
 	* Gets the item stored in bag.
 	* @return item stored in bag
 	*/
@@ -17,7 +17,7 @@ public class SmallBag<T> {
 		return item;
 	}
 	
-	/*
+	/**
 	* Sets the item stored in bag
 	* @param value Item to store
 	*/
